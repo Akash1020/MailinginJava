@@ -6,7 +6,8 @@ Java mail API can send email in text format or HTML format. If you would like to
 Gmail SMTP Host: smtp.gmail.com
 Gmail SMTP Port: 587
 
-Download Java Mail API: https://javaee.github.io/javamail/
+Download Java Mail API: https://javaee.github.io/javamail
+
 Enable signin from less secure apps in Gmail: https://www.google.com/settings/security/lesssecureapps
 
 Source:
